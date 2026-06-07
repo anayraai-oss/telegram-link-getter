@@ -15,8 +15,6 @@ from telegram import Bot
 import os
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 
-BOT_TOKEN = "8691893238:AAFr89KUmemYRORBAcsGQDyPw4NQXzR-DUU"
-
 SPREADSHEET_NAME = "Reel Links"
 
 STATE_FILE = "state.json"
